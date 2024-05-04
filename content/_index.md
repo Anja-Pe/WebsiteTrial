@@ -1,5 +1,8 @@
 ---
 title: My first Hugo website
+description: "Hugo for the clueless."
+cascade:
+  featured_image: '/images/Aspero2.jpeg'
 ---
 
 ### What is this about?
